@@ -1,0 +1,1 @@
+# Descomprimir el archivo Graphics.rar dentro de la carpeta del proyecto.
