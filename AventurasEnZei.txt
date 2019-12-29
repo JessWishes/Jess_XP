@@ -1,0 +1,99 @@
+#-------------------------------------------------------------------
+# Aventuras en Zei
+#-------------------------------------------------------------------
+
+Aventuras en Zei, es un proyecto sin fines de lucro, pero todas las
+donaciones son agradecidas.
+
+#-------------------------------------------------------------------
+# Créditos
+#-------------------------------------------------------------------
+
+-Rpg Maker XP : Enterbrain inc.
+
+-Scripts : JessWishes
+
+-Sprites : JessWishes
+
+-Música : Eric Matyas - soundimage.com
+
+#-------------------------------------------------------------------
+# Información
+#-------------------------------------------------------------------
+
+Favor de no editar o tomar cualquier material gráfico, texto o
+código dentro de este proyecto sin antes consultar al autor.
+
+#-------------------------------------------------------------------
+# Contacto
+#-------------------------------------------------------------------
+
+- Recursos e información :
+ jesswishesdev.weebly.com
+
+- Twitter
+ https://twitter.com/JessWishes
+
+- Discord
+ https://discord.gg/VvrSQwz
+
+#-------------------------------------------------------------------
+# Cosas por realizar
+#-------------------------------------------------------------------
+
+Pantalla de carga
+ -Multipartidas
+ -Mostrar Información de la partida a cargar
+
+Dentro del Juego
+ -Animación aunque no avance
+ -Beep al chocar con algún tile/npc
+
+Formato de textos
+ -El cuadro de texto grande, compatible con los demás
+
+Menú de pausa
+ -Equipo(opciones)
+ -Mochila
+ -Dex(?)
+ -Opciones(?)
+ -extras(?)
+
+Especies
+ -Añadir especies
+
+Movimientos
+ -Añadir Movimientos
+ -Añadir efectos
+
+Habilidades
+ -Efectos de habilidades
+
+Entrenadores
+ -Añadir enemigos(AI)
+
+Batallas
+ -Sistema de capturas
+ -Sistema de batalla(AI)(?)
+
+Objetos
+ -Efectos
+ -Usar desde la mochila
+ -Usar fuera de la mochila
+ -Usar fuera de batalla
+ -Usar dentro de batalla
+
+#-------------------------------------------------------------------
+# Problemas de Compatibilidad con android
+#-------------------------------------------------------------------
+Class Sprite
+ -método zoom 
+ -método angle
+
+Class Bitmap
+ -método draw_text
+ -método blt
+
+#-------------------------------------------------------------------
+#
+#-------------------------------------------------------------------

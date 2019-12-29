@@ -1,0 +1,9 @@
+# Demo 1
+
+ - Introducción
+  . Ingresar nombre de primero
+  . Contar más sobre el personaje
+
+
+# Demo 2
+ - Múltiples partidas
